@@ -7,7 +7,7 @@
     }
     //Creating the connection between the database and the website
     //Getting the database credientials
-    define('SITEURL', 'https://admin.wecycle.travel/');
+    define('SITEURL', '******');
     define('LOCALHOST', '******');   //Database located server
     define('DB_USERNAME', '*****');           //username to enter db
     define('DB_PASSWORD', '******');               //pwrd to enter db
